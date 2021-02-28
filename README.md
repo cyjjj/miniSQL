@@ -52,7 +52,7 @@
 
 ### 模块
 
-![模块](.\要求\模块.png)
+![模块](https://github.com/cyjjj/miniSQL/blob/main/%E8%A6%81%E6%B1%82/%E6%A8%A1%E5%9D%97.png)
 
 
 
